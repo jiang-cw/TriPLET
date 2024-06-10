@@ -3,7 +3,7 @@ This repo contains the supported pytorch code and configuration files of our wor
 
 
 # Implementation
-Train the model using train.py. Use test.py to test the trained model.
+Train the model using the script train.py. Once the model is trained, use the script test.py to evaluate it.
 
 
 
